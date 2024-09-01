@@ -4,7 +4,7 @@
 
 💼 Experiência em projetos colaborativos utilizando Oracle SQL, Docker, e práticas ágeis.
 
-📚 Atualmente estudando Sistemas de Informação na FIAP (6º semestre).
+📚 Atualmente estudando Sistemas de Informação na FIAP (6º semestre/8).
 
 💡 Interessado em engenharia de software, banco de dados e boas práticas de desenvolvimento.
 
