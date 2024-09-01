@@ -1,16 +1,15 @@
-## Hi there 👋
+👋 Olá! Eu sou o Lorenzo.
 
-<!--
-**lorenzo-nascimento/lorenzo-nascimento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Desenvolvedor de Software em formação com foco em Java e Spring Boot para construção de microsserviços escaláveis e eficientes.
 
-Here are some ideas to get you started:
+💼 Experiência em projetos colaborativos utilizando Oracle SQL, Docker, e práticas ágeis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Atualmente estudando Sistemas de Informação na FIAP (6º semestre).
+
+💡 Interessado em engenharia de software, banco de dados e boas práticas de desenvolvimento.
+
+🌱 Apaixonado por aprender novas tecnologias e por desafios que envolvem resolução de problemas complexos.
+
+🎮 Nas horas vagas, gosto de jogar WoW Classic e explorar o mundo dos games e animes.
+
+📫 Me encontre em LinkedIn ou contribua para meus projetos aqui no GitHub!
