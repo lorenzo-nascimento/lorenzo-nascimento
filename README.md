@@ -10,6 +10,6 @@
 
 🌱 Apaixonado por aprender novas tecnologias e por desafios que envolvem resolução de problemas complexos.
 
-🎮 Nas horas vagas, gosto de jogar jogos cooperativos como WoW e minecraft, que nos ensinam a trabalhar em equipe, resolver problemas e exercer a criatividade.
+🎮 Nas horas vagas, gosto de jogar jogos cooperativos como F1 e Minecraft.
 
 📫 Me encontre em LinkedIn ou contribua para meus projetos aqui no GitHub!
